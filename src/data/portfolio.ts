@@ -124,7 +124,7 @@ export const projects: Project[] = [
     "Engineered dynamic modal dialogs to display detailed project breakdowns, architecture logs, and tech stacks.",
     "Structured code using modular component patterns to ensure scalability and maintainability."
   ],
-  github: "https://github.com/hasininethmini1-glitch", 
+  github: "https://github.com/hasininethmini1-glitch/MyProtfolio", 
   liveDemo: "https://drive.google.com/file/d/1KchoPP_zPnfvQGPbfbJ3Kpz45oyPoJuU/view?usp=sharing", 
   featured: false,
 }

@@ -52,9 +52,9 @@ export const projects: Project[] = [
     technologies: ["React.js", "Node.js", "Express.js", "MySQL","Tailwind CSS","JSON Web Tokens (JWT)"," Axios","Vite"," REST API"],
     features: ["Role-Based Access Control", "Employee Information Management", "Attendance Management", "Payroll Management", "Inventory Management", "Material Request Management", "Automated Report Generation"],
     details: [
-      "Role-Based Security: JWT authentication with customized user privileges for Admin, Warehouse Manager,Human and Site Supervisors.","  Real-Time Inventory Logic: Automated inventory tracking with proactive low-stock notifications to prevent construction halts.","  Digital Requisition Approval: Formal request and dispatch workflow connecting field site supervisors directly to the warehouse. "," Algorithmic Payroll Processing: Links digital attendance logs to predefined wage rates, automating weekly/monthly labor payouts. "," Visual Analytics Dashboard: Interactive data visualization monitoring budget overruns, resource allocations and overall project health."
+      "Role-Based Security: JWT authentication with customized user privileges for Admin, Warehouse Manager,Human Resources Manager and Site Supervisors.","  Real-Time Inventory Logic: Automated inventory tracking with proactive low-stock notifications to prevent construction halts.","  Digital Requisition Approval: Formal request and dispatch workflow connecting field site supervisors directly to the warehouse. "," Algorithmic Payroll Processing: Links digital attendance logs to predefined wage rates, automating weekly/monthly labor payouts. "," Visual Analytics Dashboard: Interactive data visualization monitoring budget overruns, resource allocations and overall project health."
     ],
-    github: "https://github.com/hasininethmini1-glitch/Human-Resources-Inventory-Management-System.git",
+    github: "https://github.com/hasininethmini1-glitch/Human-Resources-Inventory-Management-System",
     liveDemo: "https://drive.google.com/file/d/1dZxZvGmB2zOIuCSPzbu7qGP1CIwJdI_Y/view?usp=sharing",
     featured: true,
   },

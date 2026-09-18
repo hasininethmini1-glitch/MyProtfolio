@@ -51,7 +51,7 @@ export function Projects() {
             <DialogHeader>
               <p className="font-mono text-xs uppercase tracking-[0.15em] text-primary">{selected.type}</p>
               <DialogTitle className="font-display text-2xl leading-tight sm:text-3xl">{selected.title}</DialogTitle>
-              {/* Card එකේ තියෙන short description එකට අමතරව longDescription එක තිබේ නම් එය පෙන්වීම */}
+              
               <DialogDescription className="pt-3 text-base leading-relaxed text-muted-foreground">
                 {selected.longDescription || selected.description}
               </DialogDescription>
